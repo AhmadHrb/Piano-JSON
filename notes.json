@@ -1,6 +1,6 @@
 {
 "Happy Birthday!": {
-  file: "happy-birthday.json",
-  description: "Classic Birthday Song!"
+  "file": "happy-birthday.json",
+  "description": "Classic Birthday Song!"
 }
 }
